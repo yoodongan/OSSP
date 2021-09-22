@@ -10,3 +10,5 @@ problem 1
 What's your name?
 
 "My name is YOO."
+
+"Today is Thanksgivingday."
